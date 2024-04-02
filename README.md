@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing and predicting machine learning (ML) job failures within the SURFLisa HPC cluster. It includes an in-depth examination of various aspects such as failure statistics, arrival patterns, CPU usage, time correlations of failures, and peak analysis. Furthermore, the project involves the implementation of a hybrid LSTM-TCN model to predict the occurrence of failed jobs across varying time granularities, leveraging insights from failed ML jobs. 
+This project focuses on analyzing and predicting machine learning (ML) job failures within the SURFLisa HPC cluster. It includes an in-depth examination of various aspects such as failure statistics, arrival patterns, CPU usage, time correlations of failures, and peak analysis. Furthermore, the project involves the implementation of a hybrid LSTM-TCN model to predict the occurrence of failed ML jobs across varying time granularities, leveraging insights from ML job failures. 
 
 ## Repository Structure
 
